@@ -1,0 +1,1 @@
+{"jobID":"4d7e15ea-ab5c-61e0-0c1c-b9caa60517f7","spec":{"type":"policy","cause":{"Message":"","User":"Martin Weber \u003cnapster2202@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
