@@ -16,7 +16,7 @@ spec:
   - host: training-user-8.training.weave.works
     http:
       paths:
-      - path: /metrics-demo
+      - path: /mighty-fine
         backend:
           serviceName: metrics
           servicePort: 3000
